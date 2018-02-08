@@ -2,7 +2,8 @@ The `meltflake` library provides a simple `Melt` function to parse and extract
 information from Snowflake IDs. A simple `melter` utility is included.
 
 ```
-go get github.com/nicholasknight/meltflake
+go get -u github.com/nicholasknight/meltflake
+go get -u github.com/nicholasknight/meltflake/melter
 ```
 
 ```
